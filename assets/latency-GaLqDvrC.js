@@ -1,0 +1,1 @@
+var e=e=>/Android/i.test(e||``);function t(t){return e(t)?{latencyHint:`balanced`,sampleRate:24e3}:{latencyHint:`interactive`}}export{e as n,t};
